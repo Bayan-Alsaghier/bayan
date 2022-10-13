@@ -1,4 +1,0 @@
-This is a first line of this text.
-This is a second line in the main not in the branch 
-Third line on new branch
-Forth line with no branches 
